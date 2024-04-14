@@ -13,3 +13,4 @@ Console.WriteLine($"Результат добавления: {str}");
 str = str.Substring(0, str.Length - 1) + "?";
 
 Console.WriteLine($"Результат замены: {str}");
+ 
